@@ -76,7 +76,7 @@ export default function Index() {
         </p>
       </main>
       <aside>
-        <h2>Demos In This App</h2>
+        <h2>Demos In This App hhhhh</h2>
         <ul>
           {data.demos.map(demo => (
             <li key={demo.to} className="remix__page__resource">
